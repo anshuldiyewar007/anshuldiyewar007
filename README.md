@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Anshul | Cybersecurity Student & ML Learner
 
-<!--
-**anshuldiyewar007/anshuldiyewar007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Security Enthusiast** | 🤖 **ML Practitioner** | 🛠️ **Project Builder**
 
-Here are some ideas to get you started:
+Welcome to my personal repository! This space showcases my journey in **cybersecurity** and **machine learning**, featuring projects, experiments, and learning resources.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🎓 Pursuing B.tech in VIT Bhopal
+- 💻 Passionate about **AI-driven cybersecurity solutions**  
+- 🔭 Currently exploring: Adversarial ML, Threat Intelligence, and Security Automation  
+- 🌱 Learning: Deep Learning for Security Analytics  
+
+---
+
+## 🛠️ Featured Projects
+
+### 1. **Intrusion Detection System (IDS)** - `Python, Scikit-learn, TensorFlow`  
+   - Developed a **network intrusion detection system** using machine learning  
+   - Implemented anomaly detection with Random Forest and LSTM models  
+   - Features: Real-time packet analysis, attack classification (DDoS, PortScan, etc.)  
+   
+
+### 2. **Identity Detection System** - `OpenCV, Face Recognition, Deep Learning`  
+   - Built a **biometric authentication system** using facial recognition  
+   - Implemented with **Siamese Networks** for improved accuracy  
+   - Features: Live detection, anti-spoofing measures  
+   
+
+### 3. **Secure E-Commerce Website** - `Django, React, Security Hardening`  
+   - Full-stack development with **OWASP Top 10 protections**  
+   - Implemented: JWT authentication, CSRF protection, PCI-DSS compliance  
+   - Added ML-based **fraud detection** for transactions  
+   
+
+---
+
+## 🔧 Technical Skills  
+**Security Tools:** Wireshark | Metasploit | Burp Suite | Snort  
+**ML/DL:** TensorFlow | PyTorch | Scikit-learn | OpenCV  
+**Development:** Python | JavaScript | Docker | AWS  
+
+---
+
+## 📚 Learning Resources  
+I curate cybersecurity and ML learning materials:  
+- [📖 My Security Cheatsheets](/Security-Notes)  
+- [🧠 ML Experiment Journal](/ML-Journey)  
+
+---
+
+## 📫 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/anshul-diyewar-04b542251/)  
+ 
+✉️ Email: your.email@example.com  

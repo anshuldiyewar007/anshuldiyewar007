@@ -43,12 +43,7 @@ Welcome to my personal repository! This space showcases my journey in **cybersec
 
 ---
 
-## 📚 Learning Resources  
-I curate cybersecurity and ML learning materials:  
-- [📖 My Security Cheatsheets](/Security-Notes)  
-- [🧠 ML Experiment Journal](/ML-Journey)  
 
----
 
 ## 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/anshul-diyewar-04b542251/)  

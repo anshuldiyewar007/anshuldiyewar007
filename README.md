@@ -19,7 +19,8 @@ Welcome to my personal repository! This space showcases my journey in **cybersec
 ### 1. **Intrusion Detection System (IDS)** - `Python, Scikit-learn, TensorFlow`  
    - Developed a **network intrusion detection system** using machine learning  
    - Implemented anomaly detection with Random Forest and LSTM models  
-   - Features: Real-time packet analysis, attack classification (DDoS, PortScan, etc.)  
+   - Features: Real-time packet analysis, attack classification (DDoS, PortScan, etc.)
+   - https://intrusion-detection-system-007.streamlit.app/ 
    
 
 ### 2. **Identity Detection System** - `OpenCV, Face Recognition, Deep Learning`  

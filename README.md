@@ -20,7 +20,7 @@ Welcome to my personal repository! This space showcases my journey in **cybersec
    - Developed a **network intrusion detection system** using machine learning  
    - Implemented anomaly detection with Random Forest and LSTM models  
    - Features: Real-time packet analysis, attack classification (DDoS, PortScan, etc.)
-   - https://intrusion-detection-system-007.streamlit.app/ 
+   - Live link : https://intrusion-detection-system-007.streamlit.app/ 
    
 
 ### 2. **Identity Detection System** - `OpenCV, Face Recognition, Deep Learning`  

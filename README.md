@@ -49,4 +49,4 @@ Welcome to my personal repository! This space showcases my journey in **cybersec
 ## 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/anshul-diyewar-04b542251/)  
  
-✉️ Email: your.email@example.com  
+✉️ Email: anshdiyewar007@gmail.com

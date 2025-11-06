@@ -10,7 +10,7 @@ I’m a B.Tech CSE student at **VIT Bhopal University**, passionate about **AI-d
 - 🎓 **B.Tech in Computer Science & Engineering**, VIT Bhopal (2022–2026)  
 - 🔐 Cybersecurity & Ethical Hacking Enthusiast  
 - 🤖 Exploring Machine Learning, Deep Learning, and Network Defense  
-- 🌱 Currently learning **Threat Detection, RAG Systems, and Digital Forensics**  
+- 🌱 Currently learning **Full stack web development**  
 - 💡 Interested in **Adversarial ML**, **Blockchain Security**, and Security Automation  
 
 ---

@@ -1,52 +1,83 @@
-# 👋 Hi, I'm Anshul | Cybersecurity Student & ML Learner
+# 👋 Hi, I'm **Anshul Diyewar**
+**Cybersecurity Student | ML Practitioner | Security Research Enthusiast**
 
-🔐 **Security Enthusiast** | 🤖 **ML Practitioner** | 🛠️ **Project Builder**
-
-Welcome to my personal repository! This space showcases my journey in **cybersecurity** and **machine learning**, featuring projects, experiments, and learning resources.
+Welcome to my personal repository!  
+I’m a B.Tech CSE student at **VIT Bhopal University**, passionate about **AI-driven cybersecurity**, secure system design, and applied machine learning.
 
 ---
 
 ## 🚀 About Me
-- 🎓 Pursuing B.tech in VIT Bhopal
-- 💻 Passionate about **AI-driven cybersecurity solutions**  
-- 🔭 Currently exploring: Adversarial ML, Threat Intelligence, and Security Automation  
-- 🌱 Learning: Deep Learning for Security Analytics  
+- 🎓 **B.Tech in Computer Science & Engineering**, VIT Bhopal (2022–2026)  
+- 🔐 Cybersecurity & Ethical Hacking Enthusiast  
+- 🤖 Exploring Machine Learning, Deep Learning, and Network Defense  
+- 🌱 Currently learning **Threat Detection, RAG Systems, and Digital Forensics**  
+- 💡 Interested in **Adversarial ML**, **Blockchain Security**, and Security Automation  
 
 ---
 
 ## 🛠️ Featured Projects
 
-### 1. **Intrusion Detection System (IDS)** - `Python, Scikit-learn, TensorFlow`  
-   - Developed a **network intrusion detection system** using machine learning  
-   - Implemented anomaly detection with Random Forest and LSTM models  
-   - Features: Real-time packet analysis, attack classification (DDoS, PortScan, etc.)
-   - Live link : https://intrusion-detection-system-007.streamlit.app/ 
-   
-
-### 2. **Identity Detection System** - `OpenCV, Face Recognition, Deep Learning`  
-   - Built a **biometric authentication system** using facial recognition  
-   - Implemented with **Siamese Networks** for improved accuracy  
-   - Features: Live detection, anti-spoofing measures  
-   
-
-### 3. **Secure E-Commerce Website** - `Django, React, Security Hardening`  
-   - Full-stack development with **OWASP Top 10 protections**  
-   - Implemented: JWT authentication, CSRF protection, PCI-DSS compliance  
-   - Added ML-based **fraud detection** for transactions  
-   
+### **1. RAG-based AI Chat Bot (2024)**
+A Retrieval-Augmented Generation system for document-based Q&A.  
+- Powered by LangChain, Transformers, and vector databases  
+- Provides accurate, context-aware document answers  
+- Optimized embeddings, chunking, and retrieval pipeline  
 
 ---
 
-## 🔧 Technical Skills  
-**Security Tools:** Wireshark | Metasploit | Burp Suite | Snort  
-**ML/DL:** TensorFlow | PyTorch | Scikit-learn | OpenCV  
-**Development:** Python | JavaScript | Docker | AWS  
+### **2. KAVACH – Advanced Network Intrusion Detection System (2024)**
+A real-time IDS using machine learning with **98% accuracy**.  
+- Built with Python, Scikit-learn, TensorFlow  
+- Detects attacks like **DDoS, PortScan, Brute-force**, etc.  
+- Real-time packet inspection and feature engineering  
+- **Live Demo:** https://intrusion-detection-system-007.streamlit.app/
 
 ---
 
+### **3. Brain Tumor Detection Using Deep Learning (2025)**
+A CNN-based MRI brain tumor classifier achieving **91% accuracy**.  
+- Advanced preprocessing and augmentation  
+- Strong generalization on unseen MRI scans  
 
+---
 
-## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/anshul-diyewar-04b542251/)  
- 
-✉️ Email: anshdiyewar007@gmail.com
+## 🔧 Technical Skills
+
+### **Programming & Development**
+- Python, Java, SQL  
+- HTML, CSS, JavaScript  
+- Git, GitHub, Linux, AWS  
+
+### **Cybersecurity**
+- Cryptography, Network Security  
+- Web App Security (OWASP Top 10)  
+- Vulnerability Analysis & Penetration Testing  
+- Malware Analysis, Digital Forensics  
+- Tools: **Wireshark, Metasploit, Burp Suite, Snort, VirtualBox**
+
+### **Machine Learning**
+- TensorFlow, Scikit-learn, Pandas, NumPy  
+- OpenCV, Seaborn  
+- Model Training, Evaluation, Deployment  
+
+---
+
+## 📜 Certifications
+- ✅ **Certified Ethical Hacker (CEH v12)** – EC Council  
+- ✅ **IBM Certified Blockchain Developer** – IBM  
+- ✅ **Bits and Bytes of Computer Networking** – Google (Coursera)
+
+---
+
+## 🏆 Achievements
+- Solved **120+ coding problems on LeetCode**  
+- Participated in multiple hackathons  
+- Completed **10+ penetration testing scenarios**  
+- Developed multiple AI + Security projects  
+
+---
+
+## 📫 Let’s Connect
+- **LinkedIn:** https://linkedin.com/in/anshul-diyewar  
+- **GitHub:** https://github.com/anshuldiyewar007  
+- **Email:** anshdiyewar007@gmail.com  
